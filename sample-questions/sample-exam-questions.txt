@@ -1,5 +1,3 @@
-  <code>
-
   These exam questions are collected from various sources and may not be exact questions that would come in the exam. Just for training purpose only!!!
   
   001 Qestion: You are a solutions architect working for a large pharmaceutical company who are involved in high performance computing to develop new drugs to treat arthritis. You are helping them to design a new application which will need to keep network traffic the lowest latency possible while leveraging very high CPU performance. They would like to place this solution on to the AWS platform and are looking for your recommendations. Which of the following do you suggest  ?
@@ -380,7 +378,7 @@ Answer: c
   c. Encrypted by default
   d. Not suitable for databases
 Answer: b
-064 Question: A _____ is a document that provides a formal statement of one or more permissions.
+064 Question: A ___ is a document that provides a formal statement of one or more permissions.
   a. Policy
   b. User
   c. Group
@@ -478,7 +476,7 @@ Answer: b
   c. IAM
   d. Storage Gateway
 Answer: a, d
-000 Question: If you want your application to check whether a request generated an error, then you look for an ____ node in the response from the Amazon RDS API
+000 Question: If you want your application to check whether a request generated an error, then you look for an ___ node in the response from the Amazon RDS API
   a. Incorrect
   b. Error
   c. False
@@ -542,7 +540,7 @@ Answer: d
   a. true
   b. false
 Answer: b
-000 Question: Every user you create in the IAM system starts with ____
+000 Question: Every user you create in the IAM system starts with ___
   a. Full permissions
   b. Partial permissions
   c. No permissions
@@ -826,7 +824,7 @@ Answer: c
   a. true
   b. false
 Answer: b
-000 Question: A_____is the concept of allowing (or disallowing) an entity such as a user, group, or role some type of access to one or more resources
+000 Question: A___ is the concept of allowing (or disallowing) an entity such as a user, group, or role some type of access to one or more resources
   a. user
   b. AWS Account
   c. resource
@@ -1358,7 +1356,7 @@ Question: You must to encrypt all incoming and outgoing traffic between your ser
   d. Configure a NAT and install the EC2 instance on that NAT so that you offload SSL termination to a third party EC2 instance and not your production environment.
 answer: b
 Question: The company you work for is considering a move to AWS, but they are concerned that their current, 50Mbps connection will not be able to handle the 100 TB of data that need to be migrated without causing unacceptable downtime. As their solutions architect, which AWS service would you recommend to move this data?
-  a. snowball
+  a. Snowball
   b. s3 with transfer acceleration
   c. aws direct connect
   d. aws storage gateway
@@ -1733,7 +1731,7 @@ Question: Your AWS environment contains several on-demand, EBS-backed EC2 instan
   c. Take snapshots of the EBS volumes and sell the instances on the In-Demand Instance Marketplace.
   d. Explain your situation to AWS Support and ask them to hold your instances for you.
 answer: a
-Question: The AMI ID used in an AutoScaling policy is specified in the_____.
+Question: The AMI ID used in an AutoScaling policy is specified in the___.
   a. Launch configuration
   b. Autoscaling group
   c. Autoscaling policy
@@ -1899,6 +1897,3 @@ Question: Which of the following statements are true?
   c. S3-RRS provides 99.99% durability
   d. S3-Standard provides 99.99% availability.
 answer: a, c, d
-
-</code>
-
