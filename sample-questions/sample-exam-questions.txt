@@ -1,8 +1,8 @@
   
   
-  ***These exam questions are collected from various sources and may not be exact questions that would come in the exam. Just for training purpose only!!!***
+#These exam questions are collected from various sources and may not be exact questions that would come in the exam. Just for training purpose only!!!
   
-  ***Also, make sure to refer official aws documentation for the latest info, as the info these questions may get outdated***
+#Also, make sure to refer official aws documentation for the latest info, as the info these questions may get outdated
   
   001 Qestion: You are a solutions architect working for a large pharmaceutical company who are involved in high performance computing to develop new drugs to treat arthritis. You are helping them to design a new application which will need to keep network traffic the lowest latency possible while leveraging very high CPU performance. They would like to place this solution on to the AWS platform and are looking for your recommendations. Which of the following do you suggest  ?
     A. CPU optimized EC2 instances deployed into placement groups
